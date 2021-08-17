@@ -27,7 +27,14 @@ LARAVEL 8
 Densenvolvida por:
 
 João Vinicius Vieira da Silva
+
+
 contato: viniciusvds-@hotmail.com
+
+
 cel:21 966982971 wpp
-[linkedIn]:(https://www.linkedin.com/in/jviniciusvds/)
-[github]:(https://github.com/viniciusvds1/viniciusvds1)
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/viniciusvds1)](https://github.com/viniciusvds1)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jviniciusvds/)]( https://www.linkedin.com/in/jviniciusvds/)
